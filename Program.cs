@@ -4,4 +4,4 @@
 //  sudo dotnet build MyApp.csproj   编译
 
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, Worldsd!test");
+Console.WriteLine("Hello, Worldsd!testtest2");
